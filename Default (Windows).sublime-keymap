@@ -1,0 +1,5 @@
+[
+	// Open the main panel, add server, quick connect, list servers -> browse etc
+    { "keys": ["ctrl+f8"], "command": "is_it_terminal" },
+    { "keys": ["ctrl+enter"], "command": "is_it_terminal", "args": {"action": "send"} }
+]
